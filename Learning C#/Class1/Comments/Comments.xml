@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Comments</name>
+    </assembly>
+    <members>
+        <member name="M:HelloWorld.Program.Main(System.String[])">
+            I can summarize the class with a XML comment
+            <summary>
+            This is the main sample app function
+            </summary>
+            <param name="args"> name of the person</param>
+            <returns> there is no return</returns>
+        </member>
+    </members>
+</doc>
